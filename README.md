@@ -2,7 +2,7 @@
 ---
 # Each and every problems stored in a separate folder
 ---
-* ***Solving problems using array functions on rest countries data in click here*** _**=>**_ [`restcountries.com`](https://restcountries.com/v3.1/all).
+* ***Solving problems using array functions on rest countries data and click here for data*** _**=>**_ [`restcountries.com`](https://restcountries.com/v3.1/all).
 ---
   1. **Get all the countries from Asia continent /region using Filter function**
   
